@@ -1,0 +1,16 @@
+Management of Innovation - Systems architecture and bridging knowledge among people/groups/industries is at the heart of every great innovation.
+The Individual and Group Dynamics - A firm is a collection of individuals with different personalities who follow the incentives set forth to fulfill their hierarchy of needs.
+Organizational Strategy and Structure - A firm should be structured to allow for different paces of work that aligns with set strategies to innovate.
+Markets and the Firm - Micro and Macro economics dictate the necessity for firms to be agile and adapt to changing trends. 
+The Business of Healthcare - The U.S. healthcare system is built stakeholders with differing incentives who are all trying to do their best, but patients suffer if value based care isn't the strategy.
+Financial Theory and Policy - Strategy and NPV alignment provides strong reasoning for a firm investing and taking on new projects. 
+Product Management - Internal strategy, competition, and trending are key components of ensuring a product can not only be commercialized but be successful.
+Financial Accounting - Reading financial statements give key insights into the health and operations of a firm.
+Machine Learning with Python - Python's machine learning ability provides powerful AI models to analyze significant data and trends.
+R for Business Analytics - R's advanced analytics capabilities provides summarized dashboards to analyze new trends.
+Articulation and Critical Thinking - Clearly and concisely expressing oneself helps streamline communication of tasks and attaining commitment. 
+Data Analytics for Managers - The ability to determine significant data from noise helps streamline a managers focus towards prioritization of tasks/projects.
+Quantitative Tools for Business - Analysis of both quantitative and qualitative data through software tools allows for insights to be learned.
+Digital Marketing - The digital landscape of media provides synergy along the marketing funnel to bring a product into our hands. 
+Marketing Management - The marketing mix is a complex network of dynamic areas that require careful considerations through all steps of the funnel.
+
